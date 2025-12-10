@@ -1,0 +1,16 @@
+# Assignment 1
+
+## Problem
+The goal of this assignment was to build a simple machine learning model to predict housing prices.
+
+## Approach
+- Loaded the dataset  
+- Cleaned the data and removed missing values  
+- Used a linear regression model  
+- Compared the predictions with actual values  
+
+## Results
+The model produced reasonable results and helped me understand how data preparation affects accuracy.
+
+## What I Learned
+I learned the importance of preprocessing and how small changes in the data can influence the outcome of the model.
