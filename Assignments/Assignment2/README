@@ -1,0 +1,16 @@
+# Assignment 2
+
+## Problem
+This assignment focused on evaluating a classification model and comparing accuracy across different approaches.
+
+## Approach
+- Loaded and reviewed the dataset  
+- Prepared features for training  
+- Trained a classification model  
+- Evaluated performance using accuracy and confusion matrix  
+
+## Results
+The model performed better after adjusting the input features. This showed how feature selection affects outcomes.
+
+## What I Learned
+I learned how evaluation metrics help determine whether a model is performing well and what adjustments may be needed.
